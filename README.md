@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mansae10
 - 👀 I’m interested in Working out, Horror Movies and Playing Video Games.
-- 🌱 I’m currently learning SQL and UI/UX Design.
+- 🌱 I’m currently learning Spring Boot and MongoDB.
 - 💞️ I’m looking to collaborate on any Java or C programs.
 - 📫 How to reach me JustHong8032@gmail.com
 - 😄 Pronouns: He/Him
